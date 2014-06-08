@@ -1,4 +1,9 @@
-database
-========
+EasyWoW Database
+================
+Database based on WhyDB.
 
-wotlk database for easywow
+Main priorities:
+
+Northrend spawns
+
+DK questing zone spawns
