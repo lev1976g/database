@@ -25,7 +25,7 @@ wdb="wow_world"
 server="localhost"
 port="3306"
 devpath="development/ascent_world"
-uppath="development/changesets"
+uppath="changesets"
 bkpath="backup"
 
 ############################################################################

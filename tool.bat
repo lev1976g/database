@@ -25,7 +25,7 @@ SET /p world_db= World Database:
 SET dumppath=.\dump\
 SET mysqlpath=.\mysql\
 SET devsql=.\development\ascent_world
-SET changsql=.\development\changesets
+SET changsql=.\changesets
 
 
 :Begin

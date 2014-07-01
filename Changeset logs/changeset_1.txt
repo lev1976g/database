@@ -1,2 +1,0 @@
--.recall port lichking
--started working on DK starting area; fixed NPC spawns & GObject spawns

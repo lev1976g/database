@@ -1,0 +1,1 @@
+INSERT INTO `db_version` (`db_name`, `game_version`, `last_tested_arcemu_revision`, `last_included_arcemu_update`, `last_db_update_by`) VALUES ('EasyWoW', '3.3.5a', '6216d460035997663995324624d7f13893004284', '2014-06-13_17_04_creature_proto_difficulty', 'zdroid9770');
